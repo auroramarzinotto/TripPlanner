@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194630444959",
+    "project_id": "tripplanner-marzinotto",
+    "storage_bucket": "tripplanner-marzinotto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194630444959:android:a441f854b0370556187faa",
+        "android_client_info": {
+          "package_name": "com.example.tripplanner_marzinotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194630444959-2sedtnltttok904atl4cae25r4ggk0gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFgXNglIXiXKUq1y-NhZrza13iO1Q5dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194630444959-2sedtnltttok904atl4cae25r4ggk0gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
